@@ -1,0 +1,4 @@
+1f8c8bc7eab101a7438c35924b758504101aa939 2026-09-01 13:48:13 +0200
+rustc 1.98.1 (48a229cea 2026-09-01)
+CF2: cargo build --release --features rustls (rusty_weel, nativ x86_64, CARGO_PROFILE_RELEASE_STRIP=false DEBUG=1, static Rust link; vendored libcurl via curl-sys, rustls-ffi/aws-lc)
+Laufumgebung: Docker-Redis 8798, mock_eval 9302, cpee.org-Endpoints; Prozess beendet unter heaptrack nicht (nach 90 s abgebrochen, alle 3 Calls abgeschlossen, Peak reproduzierbar 525.62/525.56K); ohne heaptrack Exit 0.

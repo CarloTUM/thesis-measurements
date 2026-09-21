@@ -1,0 +1,5 @@
+Linux orangepizero2w 6.18.35-current-sunxi64 #2 SMP PREEMPT Tue Jun  9 10:28:53 UTC 2026 aarch64 GNU/Linux
+gesetzt 65536 effektiv 65536
+gesetzt 4096 effektiv 4096
+reset: 65536
+65536
